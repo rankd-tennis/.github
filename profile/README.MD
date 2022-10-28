@@ -8,7 +8,7 @@
   <h3 align="center">RANKD</h3>
 
   <p align="center">
-    RANKD - A public sports matchmaking application
+    A public sports matchmaking application
     <br />
     <a href="www.rankd.ca"><strong>Download! »</strong></a>
     <br />
