@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="../Image from iOS (1).png" alt="Logo" >
+    <img src="../Image from iOS (1).png" alt="Logo" height="100" >
   </a>
 
   <h3 align="center">RANKD</h3>
