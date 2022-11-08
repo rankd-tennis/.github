@@ -10,9 +10,9 @@
   <p align="center">
     A public tennis matchmaking application
     <br />
+     <br />
     <a href="https://www.rankd.ca"><strong>Download! »</strong></a>
     <br />
-    
     <br />
     <a href="https://github.com/rankd-tennis/rankd-dev-setup"><strong>Are you a dev? »</strong></a>
     <br />
