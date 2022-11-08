@@ -12,5 +12,9 @@
     <br />
     <a href="https://www.rankd.ca"><strong>Download! »</strong></a>
     <br />
-  </p>
+    
+    <br />
+    <a href="https://github.com/rankd-tennis/rankd-dev-setup"><strong>Are you a dev? »</strong></a>
+    <br />
+  </p> 
 </div>
